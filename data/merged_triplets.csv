@@ -1,0 +1,607 @@
+subject,predicate,object,in_snomed,exists_in_text
+Patient 7237229-2,is,Female of child bearing age,1,1
+Patient 7237229-2,is in,"Gestation period, 8 weeks",1,1
+Patient 7237229-2,has,Vulva problem,1,1
+Patient 7237229-2,has,Verruca vulgaris,1,1
+Patient 7237229-2,has,Vagina finding,1,1
+Patient 7237229-2,has,Anal verge finding,1,1
+Patient 7239988-1,is,Female,1,1
+Patient 7239988-1,has,Hypoplasia of face,0,1
+Patient 7239988-1,has,Congenital anomaly of frontal bone,1,0
+Patient 7239988-1,has,Congenital absence of zygomatic bone,1,0
+Patient 7239988-1,has,Congenital absence of maxilla,1,0
+Patient 7239988-1,underwent,Bicoronal craniosynostosis,1,0
+Patient 7239988-2,is,Female,1,1
+Patient 7239988-2,has,Hemifacial microsomia,1,1
+Patient 7239988-2,has,Left side-lying with 45 degree turn onto face,1,0
+Patient 7239988-2,underwent,Device applied to patient,1,1
+Patient 7239988-2,has,Asymmetry of mandible,1,1
+Patient 7239988-2,has,Contusion of ramus of mandible,1,0
+Patient 7239988-2,underwent,Vestibular approach,0,1
+Patient 7239988-3,is,Female,1,1
+Patient 7239988-3,has,Mandibular advancement,0,1
+Patient 7239988-3,underwent,Bilateral sagittal split osteotomy,0,1
+Patient 7239988-3,has,Asymmetry of mandible,1,0
+Patient 7239988-3,underwent,Bilateral PEEK PSI reconstruction,0,1
+Patient 7239988-3,has,Local abnormality of angle,1,1
+Patient 7239988-3,has,Excellent therapeutic response,1,1
+Patient 7239988-5,is,Well male adolescent,1,1
+Patient 7239988-5,has,Fracture of zygomatic complex,1,1
+Patient 7239988-5,has,Injury of face,1,1
+Patient 7239988-5,has,Fracture of zygoma,1,1
+Patient 7239988-5,has,Fracture of orbital floor,1,1
+Patient 7239988-5,has,Fracture of orbital floor,1,0
+Patient 7239988-6,is,"Age more than 50 years, male",1,0
+Patient 7239988-6,has,Mandibular displacement,1,0
+Patient 7239988-6,has,Ameloblastoma of jaw,1,1
+Patient 7239988-6,has,Presenting part visible,1,1
+Patient 7241257-2,is,"Age more than 50 years, female",1,1
+Patient 7241257-2,has,Grand mal seizure,1,1
+Patient 7241257-2,has,Left hemiplegia,1,1
+Patient 7241257-2,has,Positive genetic finding,1,0
+Patient 7241257-2,has,Intracranial tumor,1,1
+Patient 7241257-2,received,Radiotherapy follow-up,1,0
+Patient 7241257-2,had,Magnetic resonance imaging of brain abnormal,1,1
+Patient 7241257-2,has,Neoplasm of frontal lobe,1,1
+Patient 7241257-2,experienced,Thrombocytopenia due to radio-chemotherapy,0,0
+Patient 7241257-2,received,Treatment plan given,1,1
+Patient 7241257-2,has,Magnetic resonance imaging of brain abnormal,1,1
+Patient 7241257-2,experienced,Focal hepatic necrosis,1,0
+Patient 7241257-2,has,Imaging finding,1,1
+Patient 7241257-2,has,No evidence of neoplasm,1,1
+Patient 7241257-3,is,Patient in full remission,1,1
+Patient 7241257-3,has,Aching headache,1,1
+Patient 7241257-3,has,Weakness of limb,1,1
+Patient 7241257-3,has,Neoplasm of temporal lobe,1,1
+Patient 7241257-3,has,Tumor grade GB,1,1
+Patient 7241257-3,underwent,Standard chemo-radiation,0,1
+Patient 7241257-3,is,Drug dose,1,0
+Patient 7241257-3,received,Length of cycle increasing,1,0
+Patient 7241257-3,has,Radiologic finding,1,0
+Patient 7241257-3,is,Tumor site not specified,1,0
+Patient 7241257-3,received,Postoperative treatment,0,1
+Patient 7241257-3,is,Treatment plan given,1,1
+Patient 7241257-4,is in,Patient in full remission,1,1
+Patient 7241257-4,has,Right hemiparesis,1,1
+Patient 7241257-4,has,Unstable gait,0,1
+Patient 7241257-4,has,Left hemiparesis,1,0
+Patient 7241257-4,has,Glioblastoma multiforme of brain,1,1
+Patient 7241257-4,has,"Abnormal radiologic density, nodular",1,1
+Patient 7241257-4,has,Radiologic finding,1,1
+Patient 7241257-4,receives,Monthly OV therapy,0,1
+Patient 7241257-4,is,Asymptomatic,1,1
+Patient 7241257-4,has,Magnetic resonance imaging of brain normal,1,0
+Patient 7241257-4,has,Increased translucency,1,0
+Patient 7241257-4,has,Imaging of brain abnormal,1,1
+Patient 7241257-4,has,Increased blood vessel permeability,1,1
+Patient 7241257-4,has,Hypermetabolism,1,1
+Patient 7241257-4,has,Treatment plan given,1,1
+Patient 7241960-1,is,Male,1,1
+Patient 7241960-1,has,African origin,1,1
+Patient 7241960-1,has,Cleft of soft palate,1,1
+Patient 7241960-1,has,Opisthotonus,1,1
+Patient 7241960-1,has,O/E - muscle tone hypotonic,1,0
+Patient 7241960-1,has,Spastic quadriparesis,0,1
+Patient 7241960-1,has,Plagiocephaly,1,1
+Patient 7241960-1,has,Spastic tetraparesis,0,1
+Patient 7241960-1,has,Low frequency background activity,1,1
+Patient 7241960-1,has,Focal episodic spikes,1,1
+Patient 7241960-2,is,Baby female,1,1
+Patient 7241960-2,has,Cleft of soft palate,1,1
+Patient 7241960-2,was admitted to,Neonatal intensive care unit,0,1
+Patient 7241960-2,has,Spasm of conjugate gaze,1,1
+Patient 7241960-2,has,Cyanosis,1,1
+Patient 7241960-2,has,Abnormal involuntary movement,1,1
+Patient 7241960-2,has,EEG pattern of uncertain significance,1,1
+Patient 7241960-2,received,Vitamin-rich diet,1,0
+Patient 7241960-2,has,Lack of drug action,1,0
+Patient 7241960-2,had,Tissue surgically removed,1,0
+Patient 7241960-2,has,Severe developmental delay,0,1
+Patient 7241960-2,has,Hypotonic disorder,1,1
+Patient 7241960-2,has,Unable to control head posture,1,1
+Patient 7241960-2,has,Muscular hypertonicity,1,1
+Patient 7241960-2,has,Limited range of knee extension,0,1
+Patient 7241960-2,has,Abnormal eye movements,0,1
+Patient 7241960-2,does not,use verbal communication,0,1
+Patient 7241960-4,is,Well male adolescent,1,1
+Patient 7241960-4,is,Second child,0,1
+Patient 7241960-4,has,Born in Iran,1,1
+Patient 7241960-4,has,Epilepsy associated problems,1,1
+Patient 7241960-4,has,Developmental delay,1,1
+Patient 7241960-4,was delivered at,"Gestation period, 37 weeks",1,1
+Patient 7241960-4,was delivered by,Cesarean section - pregnancy at term,1,1
+Patient 7241960-4,has,Myoclonic seizure,1,1
+Patient 7241960-4,has,EEG abnormality without seizure,1,1
+Patient 7241960-4,has,Epileptic seizures - atonic,1,1
+Patient 7241960-4,was treated with,Clonazepam,0,1
+Patient 7241960-4,has,Vitamin B6 deficiency,1,0
+Patient 7241960-4,has,Profound mental retardation (I.Q. below 20),1,0
+Patient 7241960-4,is,Unable to walk,1,1
+Patient 7241960-4,has,Decreased muscle tone,1,1
+Patient 7241960-4,has,Spasticity,1,1
+Patient 7241960-4,has,Dystonia,1,1
+Patient 7241960-4,has,Deformity of spine,1,1
+Patient 7241960-5,is,Female,1,1
+Patient 7241960-5,is,Child of,1,1
+Patient 7241960-5,was,"Gestation period, 38 weeks",1,1
+Patient 7241960-5,was delivered by,Cesarean section - pregnancy at term,1,1
+Patient 7241960-5,has,Epileptic seizures - myoclonic,1,1
+Patient 7241960-5,has,Myoclonic seizure,1,1
+Patient 7241960-5,has,EEG abnormality with seizure,1,1
+Patient 7241960-5,was treated with,Vitamin B6,0,1
+Patient 7241960-5,has,15 year examination normal,1,1
+Patient 7241960-5,has,Abnormal size,1,1
+Patient 7241960-5,has,Child HC = < 3rd centile,1,1
+Patient 7241960-5,is,Age under 20 years,1,1
+Patient 7241960-5,has,Cervical junction notch,0,1
+Patient 7241960-5,has,Finding of spinal cord,1,1
+Patient 7243444-1,is,Baby female,1,1
+Patient 7243444-1,has,Bardet-Biedl syndrome,1,1
+Patient 7243444-1,is,Term birth of newborn,1,1
+Patient 7243444-1,has,Normal delivery,0,1
+Patient 7243444-1,has,Large kidney,1,1
+Patient 7243444-1,has,Congenital anomaly of digit,1,1
+Patient 7243444-1,has,Horizontal nystagmus,1,1
+Patient 7243444-1,has,Delayed speech,0,1
+Patient 7243444-1,has,Genetic mutation,1,1
+Patient 7243444-1,is part of,Family with school-aged children,1,1
+Patient 7243444-1,has,Excessive eating - polyphagia,1,1
+Patient 7243444-1,has,Abnormal weight gain,1,1
+Patient 7243444-1,is,Well female child,1,1
+Patient 7243444-2,is,Well female adolescent,1,1
+Patient 7243444-2,is,Female,1,1
+Patient 7243444-2,has,Excessive weight gain,1,1
+Patient 7243444-2,is,Sedentary lifestyle,1,1
+Patient 7243444-2,has,Eating frequently,1,1
+Patient 7243444-2,has,Emotional problems,1,1
+Patient 7243444-2,has,Boredom,1,1
+Patient 7243444-2,has,Family tension,1,1
+Patient 7243444-2,has,Rarely has breakfast,1,1
+Patient 7243444-2,has,Weight decreasing,1,1
+Patient 7243444-2,has,Improvement in friendships and/or relationships,1,1
+Patient 7243444-2,is,Able to comply with treatment,1,1
+Patient 7243444-3,is,Well female adolescent,1,1
+Patient 7243444-3,has,Craniopharyngioma,1,1
+Patient 7243444-3,has,Multiple endocrine deficiency syndrome,1,1
+Patient 7243444-3,is,Thyroid drug side effects,1,0
+Patient 7243444-3,has,Desmopressin adverse reaction,1,0
+Patient 7243444-3,has,Non-alcoholic fatty liver disease,0,1
+Patient 7243444-3,has,Diabetes mellitus type 2,1,1
+Patient 7243444-3,is on,Calorie restricted diet,1,1
+Patient 7243444-3,is on,Carbohydrate restricted diet,1,1
+Patient 7243444-3,tried,Low fat diet,1,1
+Patient 7243444-3,has,Eating routine - finding,1,1
+Patient 7243444-4,is,Well female adolescent,1,1
+Patient 7243444-4,has,Neonatal cerebral hemorrhage,1,1
+Patient 7243444-4,has,Epilepsy,1,1
+Patient 7243444-4,has,Developmental delay,1,1
+Patient 7243444-4,has,Unable to walk,1,1
+Patient 7243444-4,has,Excessive weight gain,1,1
+Patient 7243444-4,has,Ethnic background,1,1
+Patient 7243444-4,is,Female,1,1
+Patient 7243444-4,is,Not yet walking,1,1
+Patient 7243444-4,follows,Healthy diet,1,1
+Patient 7243444-4,is on,Low fat diet,1,1
+Patient 7243444-4,is on,Low carbohydrate diet,0,1
+Patient 7243444-4,has,Eating frequently,1,1
+Patient 7243444-4,is on,Healthy diet,1,1
+Patient 7243444-4,has,Recent weight loss,1,1
+Patient 7248360-1,is,"Age 40 to 49 years, female",1,1
+Patient 7248360-1,has,Astrocytoma of spinal cord,1,1
+Patient 7248360-1,has,Paresthesia of lower extremity,1,1
+Patient 7248360-1,has,Incomplete spinal cord lesion at T11 level without bone injury,0,1
+Patient 7248360-1,has,Injury at T7-T12 level with spinal cord injury AND without bone injury,1,1
+Patient 7248360-1,has,Weakness of limb,1,1
+Patient 7248360-1,has,Glioma of spinal cord,1,1
+Patient 7248360-1,did not receive,No anti-cancer treatment available,1,0
+Patient 7248360-1,has,Body mass index 25-29 - overweight,1,0
+Patient 7248360-1,has,Pain in the coccyx,1,1
+Patient 7248360-1,has,Chronic intractable pain,1,1
+Patient 7248360-1,is on,Ketogenic diet,1,1
+Patient 7248360-1,has,Non-enhancing mass,0,1
+Patient 7248360-1,has,Peripheral vascular alteration,1,0
+Patient 8151499-3,is,"Age more than 50 years, female",1,1
+Patient 8151499-3,has,Retinitis pigmentosa,1,1
+Patient 8151499-3,has,Artificial lens present,1,1
+Patient 8151499-3,has,Optic disc normal,1,1
+Patient 8151499-3,has,Retinal arteries attenuated,1,1
+Patient 8151499-3,has,Retinal deposits,1,1
+Patient 8151499-3,has,Chorioretinal atrophy,1,1
+Patient 8151499-3,has,Retinal pigment deposits,1,1
+Patient 8151499-3,has,Genetic variation,1,1
+Patient 8151499-3,has,Distance vision 20/150,0,1
+Patient 8151499-4,is,Age 19 to 59 years,1,1
+Patient 8151499-4,is,"Age more than 40 years, male",0,1
+Patient 8151499-4,has,Retinitis pigmentosa,1,1
+Patient 8151499-4,is,Male,1,1
+Patient 8151499-4,has,Retinal detachment,1,1
+Patient 8151499-4,has,O/E - pinhole right eye sees hand movements,1,0
+Patient 8151499-4,has,Degenerated eye,1,1
+Patient 8151499-4,has,Finding of anterior chamber intraocular lens,1,0
+Patient 8151499-4,has,Nuclear sclerotic cataract,1,1
+Patient 8151499-4,has,Oil in vitreous cavity,1,1
+Patient 8151499-4,has,Macular hole,1,1
+Patient 8151499-4,has,Choroidal atrophy,1,1
+Patient 8151499-4,has,Atrophic condition of skin,1,0
+Patient 8151499-4,has,Diffuse loss of scalp hair,1,0
+Patient 8152132-1,is,"Age more than 50 years, male",1,1
+Patient 8152132-1,has,Localized tumor configuration,1,1
+Patient 8152132-1,has,Gleason Score 8-10: Poorly differentiated,1,1
+Patient 8152132-1,has,Prostate specific antigen abnormal,1,1
+Patient 8152132-1,has,Carcinoma of prostate,1,1
+Patient 8152132-1,has,Prostate finding,1,1
+Patient 8152132-1,has,Rectum finding,1,1
+Patient 8152132-1,has,Prostate implant,0,1
+Patient 8152132-1,uses,Spacer device in use,1,1
+Patient 8152132-1,had,Computed tomography result abnormal,1,1
+Patient 8152132-1,has,Treatment plan given,1,1
+Patient 8152132-1,experienced,Radiation injury,1,1
+Patient 8152132-1,experiences,Adverse effect of radiation therapy,1,1
+Patient 8152132-2,is,"Age more than 50 years, male",1,1
+Patient 8152132-2,has,Localized tumor configuration,1,1
+Patient 8152132-2,has,T2 stage,1,1
+Patient 8152132-2,has,Gleason score 8,0,1
+Patient 8152132-2,has,Raised prostate specific antigen,1,1
+Patient 8152132-2,is,"Postpartum state, 13 weeks",0,0
+Patient 8152132-2,experienced,Absence of therapeutic response,1,0
+Patient 8152132-2,has,2.0 cc,0,1
+Patient 8152132-2,has,Rectum V100,0,1
+Patient 8152132-2,has,Rectum V90,0,1
+Patient 8152132-2,has,Rectum finding,1,1
+Patient 8152132-3,is,"Age more than 50 years, male",1,1
+Patient 8152132-3,has,Localized tumor configuration,1,1
+Patient 8152132-3,has,T2 stage,1,1
+Patient 8152132-3,has,G3 grade,1,0
+Patient 8152132-3,has,Prostate specific antigen abnormal,1,1
+Patient 8152132-3,has,Spacer device in use,1,1
+Patient 8152132-3,has,10.9 cc,0,1
+Patient 8152132-3,has,7.1 cc,0,1
+Patient 8152132-3,has,Perirectal distance,0,1
+Patient 8152132-3,has,Rectum V100,0,1
+Patient 8152132-3,has,Rectum V90,0,1
+Patient 8152132-3,has,Rectum finding,1,1
+Patient 8152132-4,is,"Age more than 50 years, male",1,1
+Patient 8152132-4,has,Localized tumor configuration,1,1
+Patient 8152132-4,has,Carcinoma of prostate,1,1
+Patient 8152132-4,has,Adenocarcinoma of prostate,1,0
+Patient 8152132-4,has,T3 stage,1,1
+Patient 8152132-4,has,G3 grade,1,0
+Patient 8152132-4,has,Raised prostate specific antigen,1,1
+Patient 8152132-4,has,Spacer device in use,1,1
+Patient 8152132-4,has,Rectum finding,1,1
+Patient 8152132-4,has,Perirectal distance,0,1
+Patient 8155422-1,is,"Age more than 50 years, male",1,1
+Patient 8155422-1,has,Coronavirus infection,1,1
+Patient 8155422-1,has,Test for detection of respiratory viruses (adenovirus and rhinovirus and respiratory syncytial virus and parainfluenza virus and influenza virus) negative,1,1
+Patient 8155422-1,has,Imaging of thorax abnormal,1,1
+Patient 8155422-1,has,Radiologic opacity,1,1
+Patient 8155422-1,has,Bronchial finding,1,1
+Patient 8155422-1,has,Increased vascular markings of lung,1,1
+Patient 8155422-1,has,Lung consolidation,1,1
+Patient 8155422-2,is,Age under 25 years,1,0
+Patient 8155422-2,has,Coronavirus infection,1,1
+Patient 8155422-2,has,Imaging of lung abnormal,1,1
+Patient 8155422-2,has,Lung consolidation,1,1
+Patient 8155422-2,has,Halo sign,1,1
+Patient 8155422-2,has,Decreased density,1,1
+Patient 8155422-2,has,Size finding,1,1
+Patient 8155422-2,has,Normal intestinal absorption,1,0
+Patient 8155422-3,is,"Age more than 40 years, male",0,1
+Patient 8155422-3,has,Coronavirus infection,1,1
+Patient 8155422-3,has,Imaging of thorax abnormal,1,1
+Patient 8155422-3,has,Radiologic opacity,1,1
+Patient 8155422-3,has,Increased vascular markings of lung,1,1
+Patient 8155422-3,has,Halo sign,1,1
+Patient 8155422-3,has,Test for detection of respiratory viruses (adenovirus and rhinovirus and respiratory syncytial virus and parainfluenza virus and influenza virus) negative,1,1
+Patient 8155422-3,is,Hospital patient,1,1
+Patient 8155422-4,is,"Age 40 to 49 years, female",1,1
+Patient 8155422-4,has,Coronavirus infection,1,1
+Patient 8155422-4,has,Radiologic opacity,1,1
+Patient 8155422-4,has,Bilateral lower lobes,0,1
+Patient 8155422-4,has,Lung consolidation,1,1
+Patient 8155422-4,has,Lobular pneumonia,1,0
+Patient 8155422-4,has,Lesion of lung,1,1
+Patient 8155422-4,has,Decreased size,1,1
+Patient 8155422-4,has,Decreased density,1,1
+Patient 8155422-4,has,Increased size,1,1
+Patient 8155578-1,is,Female,1,1
+Patient 8155578-1,has,Hypotonic disorder,1,1
+Patient 8155578-1,has,Developmental delay,1,1
+Patient 8155578-1,is,Baby female,1,1
+Patient 8155578-1,has,Child 7 month examination abnormal - for observation,1,1
+Patient 8155578-1,is,Child 1 year examination normal,1,0
+Patient 8155578-1,has,18 month examination abnormal - on treatment,1,1
+Patient 8155578-1,has,Tonic-clonic seizure,1,1
+Patient 8155578-1,is,Patient on maximal tolerated anticonvulsant therapy,1,1
+Patient 8155578-1,has,Electroencephalogram abnormal,1,1
+Patient 8155578-1,has,Magnetic resonance imaging of brain abnormal,1,1
+Patient 8155578-2,is,Baby female,1,1
+Patient 8155578-2,is,Female,1,1
+Patient 8155578-2,has,Developmental delay,1,1
+Patient 8155578-2,is,Able to raise head,1,1
+Patient 8155578-2,is,Able to sit,1,1
+Patient 8155578-2,is,Able to walk,1,1
+Patient 8155578-2,has,Able to use non-verbal communication,1,1
+Patient 8155578-2,has,Maintains good eye contact,1,1
+Patient 8155578-2,has,Able to perform hand functions,1,1
+Patient 8155578-2,has,Tonic-clonic seizure,1,1
+Patient 8155578-2,is,Seizure free > 12 months,1,1
+Patient 8155578-2,has,Tonic seizure,1,1
+Patient 8155578-2,is,on treatment plan given,0,1
+Patient 8155578-2,has,Magnetic resonance imaging of brain normal,1,1
+Patient 8155578-3,is,Baby female,1,1
+Patient 8155578-3,is,Female,1,1
+Patient 8155578-3,has,Developmental delay,1,1
+Patient 8155578-3,is,Able to raise head,1,1
+Patient 8155578-3,can,Able to sit,1,1
+Patient 8155578-3,has,Able to walk,1,1
+Patient 8155578-3,has,Poor eye contact,1,1
+Patient 8155578-3,demonstrated,Flapping movements of hands,1,1
+Patient 8155578-3,exhibits,Repetitive hand wringing,1,0
+Patient 8155578-3,has,Able to perform hand functions,1,1
+Patient 8155578-3,has,Tonic-clonic seizure,1,1
+Patient 8155578-3,has,Absence status epilepticus,0,1
+Patient 8155578-3,is on,numerous drugs,0,1
+Patient 8155578-3,has shown no side effects from,VPA medication,0,1
+Patient 8155578-3,has,Seizure free,1,1
+Patient 8155578-3,has,EEG abnormality without seizure,1,1
+Patient 8155578-3,has,Magnetic resonance imaging of brain abnormal,1,1
+Patient 8155578-3,has,Delayed myelination,1,1
+Patient 8155578-3,has,Delayed myelination in the periventricular area,0,1
+Patient 8155578-4,is,Baby female,1,1
+Patient 8155578-4,is,Female,1,1
+Patient 8155578-4,has,Developmental delay,1,1
+Patient 8155578-4,has,Difficulty raising head,1,1
+Patient 8155578-4,is,Able to sit,1,1
+Patient 8155578-4,has,Difficulty using non-verbal communication,1,1
+Patient 8155578-4,has,Able to use words,1,1
+Patient 8155578-4,exhibits,Unintelligible articulation,1,1
+Patient 8155578-4,has,Poor eye contact,1,1
+Patient 8155578-4,has,Head movements abnormal,1,1
+Patient 8155578-4,has,Flapping movements of hands,1,1
+Patient 8155578-4,has,Repetitive hand wringing,1,1
+Patient 8155578-4,has,Bruxism (teeth grinding),1,1
+Patient 8155578-4,has,Able to perform hand functions,1,1
+Patient 8155578-4,has,Tonic-clonic seizure,1,1
+Patient 8155578-4,has,Dystonic seizure,0,1
+Patient 8155578-4,has,Drug administration observations,1,1
+Patient 8155578-4,is,Seizure free,1,1
+Patient 8155578-4,has,EEG normal,1,1
+Patient 8155578-4,has,Magnetic resonance imaging of brain normal,1,1
+Patient 8155578-5,is,Male,1,1
+Patient 8155578-5,has,Hypotonic disorder,1,1
+Patient 8155578-5,has,Developmental delay,1,1
+Patient 8155578-5,is,Infant,0,1
+Patient 8155578-5,is,Baby male,1,1
+Patient 8155578-5,is,Child 1 year examination normal,1,1
+Patient 8155578-5,has,Able to perform hand functions,1,1
+Patient 8155578-5,has,Seizure,1,1
+Patient 8155578-5,has,Myoclonic seizure,1,1
+Patient 8155578-5,has,Generalized tonic-clonic seizures,0,1
+Patient 8155578-5,has,Congenital malformation of corpus callosum,1,1
+Patient 8155578-6,is,Baby female,1,1
+Patient 8155578-6,is,Female,1,1
+Patient 8155578-6,has,Hypotonic disorder,1,1
+Patient 8155578-6,has,Developmental delay,1,1
+Patient 8155578-6,is,Unable to sit independently,0,1
+Patient 8155578-6,is,Unable to walk,1,1
+Patient 8155578-6,does not,imitate vocalization,0,1
+Patient 8155578-6,has,Poor eye contact,1,1
+Patient 8155578-6,has,Finding relating to non-verbal communication,1,1
+Patient 8155578-6,has,Malformation of corpus callosum,0,1
+Patient 8155578-6,has,Delayed myelination,1,1
+Patient 8155578-6,has,Periventricular leukomalacia,1,1
+Patient 8158287-1,is,"Age more than 50 years, male",1,1
+Patient 8158287-1,has,Infective aortitis,1,1
+Patient 8158287-1,has,Infectious disease,1,1
+Patient 8158287-1,was treated with,Amoxicillin,0,1
+Patient 8158287-1,has,Aortic valve regurgitation,1,1
+Patient 8158287-1,has,Aortic valve vegetations,1,1
+Patient 8158287-1,has,Presence of microbial antigen - finding,1,1
+Patient 8158287-1,has,srtC absence in isolates #1.1 and #1.2,0,1
+Patient 8158287-1,has,Decreased drug resistance,1,1
+Patient 8158287-1,has,Decreased drug resistance to aminoglycosides,0,1
+Patient 8158287-1,has,P.M. isolation: organism - finding,1,1
+Patient 8158287-1,has,Conjugative plasmid,1,0
+Patient 8158287-1,has,Deficiency of fructose-bisphosphate aldolase,1,1
+Patient 7936892-3,is,Female,1,1
+Patient 7936892-3,has,Systemic lupus erythematosus,1,1
+Patient 7936892-3,has,"SLE glomerulonephritis syndrome, WHO class IV",1,1
+Patient 7936892-3,has,Cytopenia,1,1
+Patient 7936892-3,has,Autoantibody titer positive,1,1
+Patient 7936892-3,has,Methylprednisolone adverse reaction,1,0
+Patient 7936892-3,is,Receiving hydroxychloroquine treatment,0,1
+Patient 7936892-3,is,Drug treatment unknown,1,0
+Patient 7936892-3,has,Anti-DNA antibody titer - finding,0,1
+Patient 7936892-3,show,"Substantial oedema of the trigone, meatus, and bladder walls, with petechiae, and some ulcers, with residual urine of 50%",0,1
+Patient 7936892-3,has,Chronic ulcerating interstitial cystitis,1,1
+Patient 7936892-3,has,Abnormal granulation tissue,1,1
+Patient 7936892-3,has,Systemic mast cell disease,1,0
+Patient 7936892-3,has,Bladder finding,1,1
+Patient 7936892-3,has,Inflammation of specific body organs,1,1
+Patient 7936892-3,has,Nuclear magnetic resonance abnormal,1,1
+Patient 7936892-3,has,Normal Serum test findings,1,1
+Patient 7936892-3,has,No pathologic diagnosis,1,0
+Patient 7936892-3,has,Polyuria,1,1
+Patient 7936892-3,has,Nocturia - finding,1,1
+Patient 7936892-3,has,Dysuria,1,1
+Patient 7936892-3,has,Perineal pain,1,1
+Patient 7936892-3,has,Partial therapeutic response,1,1
+Patient 7941918-1,is,"Age more than 50 years, male",1,1
+Patient 7941918-1,has,Squamous cell carcinoma of soft palate,0,1
+Patient 7941918-1,has,Tumor invasion into adjacent tissues,1,0
+Patient 7941918-1,underwent,Cervical lymph node clearance,0,1
+Patient 7941918-1,has,Tracheostomy complication,1,0
+Patient 7941918-1,has,Bleeding from mouth,1,1
+Patient 7941918-1,has,Gastric hemorrhage,1,1
+Patient 7941918-1,has,Respiratory obstruction,1,1
+Patient 7941918-1,experienced,Hemorrhagic shock,1,1
+Patient 7941918-2,is,Age 60 to 64 years,1,1
+Patient 7941918-2,has,Squamous cell carcinoma of soft palate,0,1
+Patient 7941918-2,has,Hypertension,0,1
+Patient 7941918-2,underwent,Tumor invasion by direct extension from organ of origin to adjacent organ,1,0
+Patient 7941918-2,has,Tracheostomy present,1,1
+Patient 7941918-2,experienced,Loss of consciousness,1,1
+Patient 7941918-2,has,Cyanosis of the lips,0,1
+Patient 7941918-2,has,Unable to breathe,1,1
+Patient 7941918-2,has,Absent heart beat,1,1
+Patient 7941918-2,has,Carotid pulse absent,1,1
+Patient 7941918-3,is,"Age more than 50 years, male",1,1
+Patient 7941918-3,has,Tonsil carcinoma,1,1
+Patient 7941918-3,has,Pre-existing hypertension complicating AND/OR reason for care during childbirth,1,0
+Patient 7941918-3,has,Radiotherapy follow-up,1,1
+Patient 7941918-3,had,Complication of chemotherapy,1,0
+Patient 7941918-3,underwent,Tumor invasion into adjacent tissues,1,0
+Patient 7941918-3,underwent,Cervical lymph node clearance,0,1
+Patient 7941918-3,underwent,Flap laceration of skin,1,1
+Patient 7941918-3,has,Tracheostomy present,1,1
+Patient 7941918-3,had,Flap failure,1,1
+Patient 7941918-3,has,Infection due to Enterobacteriaceae,1,1
+Patient 7941918-3,has,Infection due to Pseudomonas aeruginosa,1,1
+Patient 7941918-3,experienced,Bleeding from mouth,1,1
+Patient 7941918-3,has,Injury to blood vessel of neck,1,1
+Patient 7941918-4,is,"Age more than 50 years, female",1,1
+Patient 7941918-4,has,Tongue carcinoma,1,1
+Patient 7941918-4,had,Carotid artery rupture,1,1
+Patient 7941918-4,had,Magnetic resonance imaging of cervical spine abnormal,1,0
+Patient 7941918-4,underwent,Functional occlusion,1,1
+Patient 7941918-4,has,Tumor invasion by direct extension from organ of origin to adjacent organ,1,1
+Patient 7941918-4,underwent,Flap transfer,0,1
+Patient 7941918-4,has,Tracheostomy present,1,1
+Patient 7941918-4,was,Under general anesthesia,1,1
+Patient 7941918-4,underwent,Flap laceration of leg,1,1
+Patient 7941918-4,has,Carotid artery rupture,1,1
+Patient 7941918-4,has,Bleeding,1,1
+Patient 7941918-4,has,Hemorrhage of blood vessel,1,1
+Patient 7941918-5,is,Age 60 to 64 years,1,1
+Patient 7941918-5,is,Male,1,1
+Patient 7941918-5,has,Squamous cell carcinoma of oropharynx,1,1
+Patient 7941918-5,has,Diabetes mellitus,1,1
+Patient 7941918-5,underwent,Flap transfer,0,1
+Patient 7941918-5,has,Tracheostomy present,1,1
+Patient 7941918-5,has,Lower respiratory tract infection,1,1
+Patient 7941918-5,experienced,Loss of consciousness,1,1
+Patient 7941918-5,experienced,Dyspnea,1,1
+Patient 7941918-5,has,Abnormal cardiac rate,1,1
+Patient 7941918-5,has,Desaturation of blood,1,1
+Patient 7941918-5,has,Normal blood pressure,1,1
+Patient 7941918-6,is,"Age more than 40 years, male",0,1
+Patient 7941918-6,is,Male,1,1
+Patient 7941918-6,has,Squamous cell carcinoma of tongue,1,1
+Patient 7941918-6,underwent,Flap laceration of leg,1,1
+Patient 7941918-6,was,Under general anesthesia,1,1
+Patient 7941918-6,underwent,Flap transfer,0,1
+Patient 7941918-6,has,Posttraumatic wound infection,1,1
+Patient 7941918-6,exhibits,Irritability and anger,1,1
+Patient 7941918-6,has,Difficulty breathing,1,1
+Patient 7941918-6,has,Dark color,1,1
+Patient 7941918-6,has,Neck swelling,1,1
+Patient 7941918-6,has,Bleeding from incision,0,1
+Patient 7941918-6,has,Tracheostomy present,1,1
+Patient 7941918-6,experienced,Cardiac arrest,1,1
+Patient 7941918-6,has,Brainstem death criteria fulfilled,1,1
+Patient 7941918-6,has,Ischemic encephalopathy,1,1
+Patient 7947173-1,is,Male,1,1
+Patient 7947173-1,has,Cleft lip,1,1
+Patient 7947173-1,has,Minor surgery done,1,1
+Patient 7947173-1,has,Stable,0,1
+Patient 7947173-1,has,"Patient status determination, greatly improved",1,1
+Patient 7947173-2,is,Well female adolescent,1,1
+Patient 7947173-2,has,Cleft lip,1,1
+Patient 7947173-2,has,Minor surgery done,1,1
+Patient 7947173-2,has,Two year check released,1,1
+Patient 7947173-3,is,Well male adolescent,1,1
+Patient 7947173-3,has,Cleft lip,1,1
+Patient 7947173-3,had,Minor surgery done,1,1
+Patient 7947173-3,has,Lips normal,1,1
+Patient 7947173-4,is,Well male adolescent,1,1
+Patient 7947173-4,has,Bilateral cleft lip,1,1
+Patient 7947173-4,has,Finding of advancement of presenting part,1,1
+Patient 7947173-4,has,Minor surgery done,1,1
+Patient 7947173-4,has,Finding of appearance of lip,1,1
+Patient 7947173-5,is,Well female adolescent,1,1
+Patient 7947173-5,has,Bilateral cleft lip,1,1
+Patient 7947173-5,has,Tooth present,1,1
+Patient 7947317-1,is,Male,1,1
+Patient 7947317-1,has,Upper respiratory tract infection,0,1
+Patient 7947317-1,has,Generalized pustular psoriasis,1,1
+Patient 7947317-1,has,Neutrophilia,1,1
+Patient 7947317-1,has,Mild eosinophilia,0,1
+Patient 7947317-1,has,Toxic hepatitis,1,1
+Patient 7947317-1,has,Pustulosis,0,1
+Patient 7947317-1,has,Penicillin adverse reaction,1,1
+Patient 7947317-1,has,Allergy test positive,1,1
+Patient 7947317-1,has,Allergic sensitization by patch test,1,1
+Patient 7947317-1,has,Id reaction,1,0
+Patient 7947317-2,is,"Age more than 50 years, female",1,1
+Patient 7947317-2,has,Cellulitis,1,1
+Patient 7947317-2,experienced,Vomiting,1,1
+Patient 7947317-2,has,Diarrhea,1,1
+Patient 7947317-2,has,Acute renal impairment,1,1
+Patient 7947317-2,has,Serum creatinine raised,1,1
+Patient 7947317-2,has,Drug-induced erythema,1,1
+Patient 7947317-2,has,Eosinophilia,1,1
+Patient 7947317-2,has,Obesity,1,1
+Patient 7947317-2,has,Osteoarthritis,1,1
+Patient 7947317-2,experienced,Drug-induced anaphylaxis,1,1
+Patient 7947317-2,has,Allergic sensitization by patch test,1,1
+Patient 7947317-2,has,Allergy to penicillin,1,1
+Patient 7947317-2,has,Flucloxacillin adverse reaction,1,1
+Patient 7947317-2,has,Amoxycillin allergy,1,1
+Patient 7947317-2,has,Ampicillin allergy,1,1
+Patient 7947317-3,is,"Age more than 40 years, male",0,1
+Patient 7947317-3,has,Drug-induced erythema,1,1
+Patient 7947317-3,has,Erosion of skin,0,1
+Patient 7947317-3,has,Liver damage,1,1
+Patient 7947317-3,has,Eosinophilia,1,1
+Patient 7947317-3,was treated with,Corticosteroids,0,1
+Patient 7947317-3,has,Pneumonia,1,1
+Patient 7947317-3,has,Penicillin adverse reaction,1,1
+Patient 7947317-3,has,Benzylpenicillin adverse reaction,1,1
+Patient 7947317-3,has,Ampicillin adverse reaction,1,1
+Patient 7947317-4,is,"Age more than 40 years, male",0,0
+Patient 7947317-4,has,DRESS syndrome,0,1
+Patient 7947317-4,has,Maculopapular drug eruption,1,1
+Patient 7947317-4,has,Fever,1,1
+Patient 7947317-4,has,Arthritis,1,1
+Patient 7947317-4,has,Eosinophilia,1,1
+Patient 7947317-4,received,Oral corticosteroids,0,1
+Patient 7947317-4,has,Atopic disease,0,1
+Patient 7947317-4,has,Anaphylaxis due to seed,1,1
+Patient 7947317-4,has,Allergic rhinitis,1,1
+Patient 7947317-4,has,Eczema,1,1
+Patient 7947317-4,has,Allergic sensitization by patch test,1,1
+Patient 7947317-4,has,Id reaction,1,0
+Patient 7947317-5,is,Well female adolescent,1,1
+Patient 7947317-5,has,Cystic fibrosis,1,1
+Patient 7947317-5,has,Fever,1,1
+Patient 7947317-5,has,Maculopapular drug eruption,1,1
+Patient 7947317-5,has,Facial swelling,1,1
+Patient 7947317-5,has,Eosinophilia,1,1
+Patient 7947317-5,has,Hepatitis unspecified,1,1
+Patient 7947317-6,is,"Age more than 40 years, male",0,1
+Patient 7947317-6,has,Bacterial arthritis of knee,0,1
+Patient 7947317-6,is,Patient on numerous drugs,1,1
+Patient 7947317-6,has,Fever,1,1
+Patient 7947317-6,has,O/E - allergic rash,1,1
+Patient 7947317-6,has,Lymphadenopathy,1,1
+Patient 7947317-6,has,Eosinophilia,1,1
+Patient 7947317-6,has,Lymphocytosis,1,1
+Patient 7947317-6,has,Prednisolone adverse reaction,1,1
+Patient 7947317-6,has,Laceration of finger,1,1
+Patient 7947317-6,has,Hydrocortisone adverse reaction,1,1
+Patient 7947317-7,is,Age 60 to 64 years,1,1
+Patient 7947317-7,is,Male,1,1
+Patient 7947317-7,has,"Traumatic amputation, below knee",0,1
+Patient 7947317-7,has,Scar,1,1
+Patient 7947317-7,has,Male with SJS/TEN,0,1
+Patient 7947317-7,has,Abnormal patient reaction,1,1
+Patient 7947317-7,has,Cellulitis,1,1
+Patient 7947317-7,has,Fever,1,1
+Patient 7947317-7,has,Erythroderma,1,1
+Patient 7947317-7,has,Desquamation secondary to acute systemic illness,1,1
+Patient 7947317-7,has,Collapse,1,1
+Patient 7947317-8,is,"Age more than 50 years, female",1,1
+Patient 7947317-8,has,Rash of systemic lupus erythematosus,1,0
+Patient 7947317-8,has,Fever,1,1
+Patient 7947317-8,has,Eosinophilia,1,1
